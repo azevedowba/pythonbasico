@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b92282e-b20a-4c7b-bad1-b3223aa469df" name="Default Changelist" comment="Initial commit">
+    <list default="true" id="5b92282e-b20a-4c7b-bad1-b3223aa469df" name="Default Changelist" comment="Initial commit teste mudança na aula 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +19,13 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/azevedowba/pythonbasico" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1nLkgOK24CiPQn9VOuIz1jfK0ww" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -193,8 +200,25 @@
       <option name="project" value="LOCAL" />
       <updated>1611941543466</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial commit teste mudança na aula 1">
+      <created>1611941957617</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611941957617</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -211,7 +235,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Initial commit teste - Alterado ultimas linhas no arquivo aula1-intro" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit teste - Alterado ultimas linhas no arquivo aula1-intro" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
