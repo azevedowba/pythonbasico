@@ -19,6 +19,3 @@ if idade >= 18 and peso >= 60 and altura >= 1.70:
     print('VOCÊ ESTÁ __ APTO __ PARA ENTRAR NO EXÉRCITO!!')
 else:
     print('VOCÊ FOI -- REPROVADO -- PARA O EXÉRCITO!!')
-
-
-
